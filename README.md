@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Sample Flask Auth</title>
+# sample-flask-auth
 </head>
 <body>
     <h2>Introdução</h2>
